@@ -1,14 +1,14 @@
 {
   "CAMPEON": "",
-  "GOLEADOR": "Lionel Messi",
+  "GOLEADOR": "Jonathan David",
   "SEMIFINALISTAS": "",
   "REVELACION": "Nueva Zelanda",
   "BATACAZO": "España",
   "DEFENSOR": "Argentina",
   "GRUPO": {
     "A": "México",
-    "B": "Suiza",
-    "C": "Escocia",
+    "B": "Canadá",
+    "C": "Brasil",
     "D": "Estados Unidos",
     "E": "Alemania",
     "F": "Suecia",
@@ -18,7 +18,7 @@
     "J": "Argentina",
     "K": "Colombia",
     "L": "Inglaterra"
-  },
+},
   "COLOMBIA": "Fase de Grupos",
   "SUBCAMPEON": ""
 }
